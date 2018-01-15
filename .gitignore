@@ -1,0 +1,9 @@
+.idea
+*.iml
+node_modules/
+build/
+*.log
+themes/sampo-storage-web/build/
+themes/web/
+*.zip
+*.rar

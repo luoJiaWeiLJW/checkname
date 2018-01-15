@@ -1,0 +1,7 @@
+ git config --global user.name "luojiawei"
+git config --global user.email "jiawei.luo@aseit.com"
+ssh-keygen -t rsa -C "jiawei.luo@aseit.com"
+git add .
+git commit -m"fsda"
+git push
+修改 git 上传 人的 名字

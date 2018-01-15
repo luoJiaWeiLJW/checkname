@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+form .has-feedback .ant-calendar-picker-icon,form .has-feedback .ant-calendar-picker-clear{
+  right: 9px !important;
+}
